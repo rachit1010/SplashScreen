@@ -13,21 +13,7 @@
         android:background="#D1943B"
         android:id="@+id/tab1">
 
-        <com.google.android.material.tabs.TabItem
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:text="Splash"
-            />
-        <com.google.android.material.tabs.TabItem
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:text="Reg Form"
-            />
-        <com.google.android.material.tabs.TabItem
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:text="Profile"
-            />
+
 
     </com.google.android.material.tabs.TabLayout>
 
